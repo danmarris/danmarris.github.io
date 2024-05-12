@@ -56,3 +56,20 @@ nav ul li {
     color: red;
     /* Change colour on hover*/
 }
+
+ul {
+    list-style-type: disc;
+    /* Style for main bullet points */
+    color: white;
+    /* Font color for main bullet points */
+}
+
+/* Styling for sub bullet points */
+ul ul {
+    list-style-type: circle;
+    /* Style for sub bullet points */
+    font-size: 0.8em;
+    /* Font size for sub bullet points */
+    color: white;
+    /* Font color for sub bullet points */  
+}
