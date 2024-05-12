@@ -29,6 +29,7 @@ p {
 }
 
 .pdf-container {
+    max-width: 100%;/* Ensure the PDF container does not exceed the viewport width */
     width: 80%;
     margin: 0 auto;
 }
