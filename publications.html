@@ -68,6 +68,25 @@
             margin: 0;
             padding: 0;
         }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+        }
+
+        .nav-link {
+            text-decoration: none;
+            color: white;
+        }
+
+        .nav-link:hover {
+            color: red; /* Change colour on hover*/
+        }
+    </style>
     </style>
     <meta name="theme-color" content="#434161" />
 
@@ -82,10 +101,10 @@
 <body>
     <nav>
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="publications.html">Publications</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="other.html">Other Bits</a></li>
+            <li><a href="index.html" class="nav-link">Home</a></li>
+            <li><a href="publications.html" class="nav-link">Publications</a></li>
+            <li><a href="contact.html" class="nav-link">Contact</a></li>
+            <li><a href="other.html" class="nav-link">Other Bits</a></li>
         </ul>
     </nav>
     <main>
