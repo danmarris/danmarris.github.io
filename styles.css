@@ -33,6 +33,11 @@ p {
     margin: 0 auto;
 }
 
+nav {
+    border-bottom: 1px solid white;
+    /* Add a white border at the bottom of the navigation */
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
