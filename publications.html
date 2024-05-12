@@ -22,6 +22,25 @@
     <title>Bulleted List with Descriptive Text</title>
     <link rel="stylesheet" href="styles.css">
     <meta name="theme-color" content="#434161" />
+    <style>
+        /* Additional styles for this specific page */
+        .publication {
+            text-align: center;
+            /* Center-align all text */
+            margin-bottom: 20px;
+            /* Add some bottom margin for spacing between publications */
+        }
+    
+        .publication h2 {
+            margin-bottom: 10px;
+            /* Add some bottom margin for spacing between title and authors */
+        }
+    
+        .publication p {
+            margin-bottom: 10px;
+            /* Add some bottom margin for spacing between authors and description */
+        }
+    </style>
 
     <!-- Open Graph tags -->
     <meta property="og:title" content="Daniel Marris" />
@@ -42,38 +61,40 @@
     </nav>
     <main>
         <h2>Here is a list of my research output:</h2>
-        <ul>
-            <li><strong> D. Marris</strong> and L. Giuggioli, Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem, 
-                <em>In Review, arXiv 2404.13360</em>
-                <ul>
-                    <li>Here we present an exact analytic framework to quantify search processes with persistence in the 
-                        motion. The theory is general and applicable in arbitrary dimension, with any boundary condition. </li>
-                    <li>This may find application in active matter, mathematical biology and movement ecology.  </li>
-                    <li><a href="https://arxiv.org/abs/2404.13360">Link here!</a></li>
-                </ul>
-            </li>
-            <li>L. Giuggioli, S. Sarvaharman, D. Das,<strong> D. Marris</strong> and T. Kay, Multi-target search in bounded and
-            heterogeneous environments: a lattice random walk perspective, To appear in <em> The Target Problem </em>
-            (Eds. D. S. Grebenkov, R. Metzler, G. Oshanin), Springer Nature, (2024) <em>arXiv 2311.00464</em>
-                <ul>
-                    <li>This is a review</li>
-                    <li><a href="https://arxiv.org/abs/2311.00464">Link here!</a></li>
-                </ul>
-            </li>
-            <li><strong> D. Marris</strong>, S. Sarvaharman and L. Giuggioli, Exact spatiotemporal dynamics of lattice random walks in
-            hexagonal and honeycomb domains <em> Phys. Rev. E </em> (2023).
-                <ul>
-                    <li>In this work we develop a general theory to desbribe exactly diffusive
-                    processes in hexagonal geometries. We consider two lattices, the hexagonal
-                    and the honeycomb. </li>
-                    <li> This may find application in a variety of fields, from exciton
-                    transport on the surface of carbon nanotubes, to animal foraging theory.</li>
-                    <li><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.032101">Link here!</a></li>
-                </ul>
-            </li>
-        </ul>
-    
 
+        <div class="publication">
+            <h2><a href="https://arxiv.org/abs/2404.13360">Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem</a> </h2>
+            <p><strong> D. Marris</strong> and L. Giuggioli</p>
+            <p>Here we present an exact analytic framework to quantify search processes with persistence in the
+            motion. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.
+            <br> <br>
+            <strong>In Review</strong> <em>arXiv 2404.13360</em>  (2024)
+        </p>
+        </div>
+
+        <div class="publication">
+            <h2><a href="https://arxiv.org/abs/2311.00464">Multi-target search in bounded and
+            heterogeneous environments: a lattice random walk perspective</a> </h2>
+            <p>L. Giuggioli, S. Sarvaharman, D. Das,<strong> D. Marris</strong> and T. Kay</p>
+            <p>Here we present a review.
+                <br> <br>
+            <strong>To appear in <em> The Target Problem </em>
+            (Eds. D. S. Grebenkov, R. Metzler, G. Oshanin), Springer Nature, (2024)</strong> <em>arXiv 2404.13360</em>
+            </p>
+        </div>
+                
+        <div class="publication">
+            <h2><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.032101">Exact spatiotemporal dynamics of lattice random walks in
+            hexagonal and honeycomb domains</a> </h2>
+            <p><strong> D. Marris</strong>, S. Sarvaharman and L. Giuggioli </p>
+            <p>In this work we develop a general theory to desbribe exactly diffusive
+            processes in hexagonal geometries. We consider two lattices, the hexagonal
+            and the honeycomb. This may find application in a variety of fields, from exciton
+            transport on the surface of carbon nanotubes, to animal foraging theory.
+                <br> <br>
+                <strong><em> Phys. Rev. E </em> (2023) </strong> 
+            </p>
+        </div>
     </main>
 
 </html>
