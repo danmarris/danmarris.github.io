@@ -107,3 +107,14 @@ a:hover {
     /* Color for links when hovered */
 }
 
+.image-container {
+    text-align: center;
+    /* Center-align the content */
+}
+
+.image-container img {
+    display: block;
+    /* Ensure the image is treated as a block element */
+    margin: 0 auto;
+    /* Center the image horizontally */
+}
