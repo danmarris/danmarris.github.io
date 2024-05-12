@@ -92,8 +92,3 @@ a:hover {
     /* Color for links when hovered */
 }
 
-/* Styling for embedded links when visited */
-a:visited {
-    color: white;
-    /* Color for links when visited */
-}
