@@ -115,6 +115,8 @@ a:hover {
 .image-container img {
     display: block;
     /* Ensure the image is treated as a block element */
-    margin: 0 auto;
-    /* Center the image horizontally */
-}
+    margin-left: auto;
+        /* Center the image horizontally */
+        margin-right: auto;
+        /* Center the image horizontally */
+    }
