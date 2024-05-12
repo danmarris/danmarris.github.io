@@ -62,14 +62,38 @@ ul {
     /* Style for main bullet points */
     color: white;
     /* Font color for main bullet points */
+    font-size: 1.5em;
+    /* Font size for main bullet points */
 }
 
 /* Styling for sub bullet points */
 ul ul {
     list-style-type: circle;
     /* Style for sub bullet points */
-    font-size: 0.8em;
+    font-size: 1em;
     /* Font size for sub bullet points */
     color: white;
     /* Font color for sub bullet points */  
+    margin-bottom: 10px; 
+    /* Adjust spacing between items */
+}
+
+/* Styling for embedded links */
+a {
+    color: white;
+    /* Default color for links */
+    text-decoration: none;
+    /* Remove underline */
+}
+
+/* Styling for embedded links when hovered */
+a:hover {
+    color: red;
+    /* Color for links when hovered */
+}
+
+/* Styling for embedded links when visited */
+a:visited {
+    color: white;
+    /* Color for links when visited */
 }
