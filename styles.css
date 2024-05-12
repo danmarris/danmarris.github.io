@@ -83,6 +83,15 @@ ul ul {
     /* Adjust spacing between items */
 }
 
+/* Media query for responsiveness */
+@media screen and (max-width: 768px) {
+    nav ul li a {
+        font-size: 40%;
+        /* Reduce font size to shrink navigation links */
+    }
+}
+
+
 /* Styling for embedded links */
 a {
     color: rgb(206, 145, 145);
