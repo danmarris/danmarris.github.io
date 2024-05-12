@@ -80,7 +80,7 @@ ul ul {
 
 /* Styling for embedded links */
 a {
-    color: white;
+    color: rgb(206, 145, 145);
     /* Default color for links */
     text-decoration: none;
     /* Remove underline */
@@ -88,7 +88,7 @@ a {
 
 /* Styling for embedded links when hovered */
 a:hover {
-    color: red;
+    color: red !important;
     /* Color for links when hovered */
 }
 
