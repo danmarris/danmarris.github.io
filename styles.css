@@ -3,8 +3,8 @@ body {
     font-family:"Courier New",
         Courier,
         monospace;
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
 }
 
 h1 {
@@ -87,7 +87,7 @@ ul ul {
 /* Media query for responsiveness */
 @media screen and (max-width: 768px) {
     nav ul li a {
-        font-size: 40%;
+        font-size: 20%;
         /* Reduce font size to shrink navigation links */
     }
 }
