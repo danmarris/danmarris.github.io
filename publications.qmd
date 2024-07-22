@@ -1,0 +1,43 @@
+---
+title: "Publications"
+format: html
+---
+### <a href = "https://iopscience.iop.org/article/10.1088/1367-2630/ad5d85/meta"> Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem </a>
+**Authors:** ***D.M.***, Luca Giuggioli 
+
+**Journal:** New Journal of Physics, 26, (2024)
+
+
+**Summary:**  
+Here we present an exact analytic framework to quantify search processes with for the one-step memory perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.
+![Here we uncovered the existence of bi-modal first-passage probality mass functions in bounded (reflecting and periodic) persistent random walks.](images\1D_FP_full.png)
+
+---
+
+### <a href="https://arxiv.org/abs/2311.00464">Multi-target search in bounded andheterogeneous environments: a lattice random walk perspective</a>
+
+**Authors:** Luca Giuggioli, Seeralan Sarvaharman, Debraj Das, ***D.M.*** and Toby Kay
+
+**Journal:** To Appear in *The Target Problem* (Eds. D. S. Grebenkov, R. Metzler, G. Oshanin), Springer Nature (2024)
+
+
+**Summary:**  
+Here we present a review of the latest advances in the field of search in heterogeneous and bounded lattice random walks. It was an absolute pleasure to work with such a lovely team.
+
+![A collection of first-passage probability mass functions for hexagonal and square lattices with and without bias.](images\composite_fpp.png)
+
+---
+
+### <a href="https://doi.org/10.1103/PhysRevE.107.054139">Exact spatiotemporal dynamics of lattice random walks in hexagonal and honeycomb domains</a>
+**Authors:** ***D.M.***, Seeralan Sarvaharman and Luca Giuggioli 
+
+**Journal:** Physical Review E, 107, 054139, (2023)
+
+**Summary:**  
+Here we develop a general theory to exactly describe diffusive processes in hexagonal geometries. We consider two lattices, the coordination number six hexagonal lattice and the non-Bravias coordination number three honeycomb lattice. Random movement on 
+hexagonal structures is seen as a modelling tool in varying applications from exciton transport on the surface of carbon nanotubes, to animal foraging theory.
+![The diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice.](images\honey.png)
+
+---
+
+<!-- Add more publications as needed -->

@@ -1,0 +1,17 @@
+---
+title: "Contact"
+format: html
+---
+**Office:**
+0.15 Queens Building, University Walk, Bristol, BS8 1TR
+
+**Email:**
+<a href="mailto:daniel.marris@bristol.ac.uk">daniel.marris@bristol.ac.uk</a>
+
+**LinkedIn:** <a href = "https://www.linkedin.com/in/daniel-marris-7a1133194/">Homepage </a>
+
+
+See below for a recent CV:
+
+<iframe src="images//Marris_CV.pdf" width="80%" height="1000px">
+</iframe>

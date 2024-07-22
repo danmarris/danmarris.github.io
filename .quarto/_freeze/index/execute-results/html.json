@@ -1,0 +1,12 @@
+{
+  "hash": "2bbed967761ea9871186b65e20d17f53",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Daniel Marris\"\ncv:\n  pdf: \"images//main_poster.pdf\"\n---\n\n\n\nI am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. \nBefore that I completed an MEng in Engineering Mathematics at the University of Bristol.\n\nIn general, I am interested in non-equilibrium statistical physics, with \na key interest in developing new theory for discrete search processes. My <a href=\"https://scholar.google.co.uk/citations?user=k4cP2HkAAAAJ&hl=en&inst=10389243673639785577&oi=ao\">research output</a>\nis generally mathematical, however to supplement this I write many stochastic \nsimulations. With this, I am interested in the fast implementation of stochastic \nsimulations, with my programming language of choice being Julia.\n\nFor a glimpse into my research, check out the poster below:\n\n\n\n\n```{css echo=FALSE}\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n```\n\n```{=html}\n\n<div class=\"embed-container\">\n  <iframe src=\"`r rmarkdown::metadata$cv$pdf`\" style=\"border: 0.5px\"></iframe>\n</div>\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

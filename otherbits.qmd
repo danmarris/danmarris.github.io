@@ -1,0 +1,13 @@
+---
+title: "Other Bits"
+format: html
+---
+I maintain a <a href="https://github.com/danmarris/Awesome-Random-Walks">repository</a> of useful papers and textbooks for those looking to work with lattice random walks. If you have any suggestions of works to add please <a href="mailto:daniel.marris@bristol.ac.uk">email me</a> and I will gladly add them!
+
+
+In my spare time I enjoy travelling the country watching football. So far I have watched games at over 50 different grounds, mainly 
+following Sheffield Wednesday and Lewes FC.
+
+I'm also into music and in the evenings you can often find me at gigs. Here is some of what I'm listening to at the moment: 
+
+![(Made using spotlistr.com)](images\music.png)

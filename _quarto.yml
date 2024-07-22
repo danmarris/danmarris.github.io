@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Daniel Marris"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+      - href: other.qmd
+        text: Other Bits
+  favicon: images\\fav.png
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

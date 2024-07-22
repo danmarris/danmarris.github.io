@@ -1,0 +1,19 @@
+---
+title: "About"
+format: html
+---
+I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. 
+Before that I completed an MEng in Engineering Mathematics at the University of Bristol.
+
+In general, I am interested in non-equilibrium statistical physics, with 
+a key interest in developing new theory for discrete search processes. My <a href="https://scholar.google.co.uk/citations?user=k4cP2HkAAAAJ&hl=en&inst=10389243673639785577&oi=ao">research output</a>
+is generally mathematical, however to supplement this I write many stochastic 
+simulations. With this, I am interested in the fast implementation of stochastic 
+simulations, with my programming language of choice being Julia.
+
+For a glimpse into my research, check out the poster below:
+
+<iframe src="images//main_poster.pdf" width="80%" height="1000px">
+</iframe>
+
+![](images\hex.png)
