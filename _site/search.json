@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.\nIn general, I am interested in non-equilibrium statistical physics, with a key interest in developing new theory for discrete search processes. My research output is generally mathematical, however to supplement this I write many stochastic simulations. With this, I am interested in the fast implementation of stochastic simulations, with my programming language of choice being Julia.\nFor a glimpse into my research, check out the poster below:"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -21,18 +7,18 @@
     "text": "Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem \nAuthors: D.M., Luca Giuggioli\nJournal: New Journal of Physics, 26, (2024)\nSummary:\nHere we present an exact analytic framework to quantify search processes with for the one-step memory perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology. \n\n\n\nMulti-target search in bounded andheterogeneous environments: a lattice random walk perspective\nAuthors: Luca Giuggioli, Seeralan Sarvaharman, Debraj Das, D.M. and Toby Kay\nJournal: To Appear in The Target Problem (Eds. D. S. Grebenkov, R. Metzler, G. Oshanin), Springer Nature (2024)\nSummary:\nHere we present a review of the latest advances in the field of search in heterogeneous and bounded lattice random walks. It was an absolute pleasure to work with such a lovely team.\n\n\n\nA collection of first-passage probability mass functions for hexagonal and square lattices with and without bias.\n\n\n\n\n\nExact spatiotemporal dynamics of lattice random walks in hexagonal and honeycomb domains\nAuthors: D.M., Seeralan Sarvaharman and Luca Giuggioli\nJournal: Physical Review E, 107, 054139, (2023)\nSummary:\nHere we develop a general theory to exactly describe diffusive processes in hexagonal geometries. We consider two lattices, the coordination number six hexagonal lattice and the non-Bravias coordination number three honeycomb lattice. Random movement on hexagonal structures is seen as a modelling tool in varying applications from exciton transport on the surface of carbon nanotubes, to animal foraging theory."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.\nIn general, I am interested in non-equilibrium statistical physics, with a key interest in developing new theory for discrete search processes. My research output is generally mathematical, however to supplement this I write many stochastic simulations. With this, I am interested in the fast implementation of stochastic simulations, with my programming language of choice being Julia.\nFor a glimpse into my research, check out the poster below:"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
     "text": "Office: 0.15 Queens Building, University Walk, Bristol, BS8 1TR\nEmail: daniel.marris@bristol.ac.uk\nLinkedIn: Homepage \nSee below for a recent CV:"
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Publications",
-    "section": "",
-    "text": "Title: Your Paper Title Here\nJournal: Journal Name Here\nAuthors: Author 1, Author 2, Author 3\nSummary:\nA brief summary of the publication goes here. Describe the main findings, significance, and any other relevant information.\n\n\n\nDescription of the image\n\n\n\n\n\n\nTitle: Your Paper Title Here\nJournal: Journal Name Here\nAuthors: Author 1, Author 2, Author 3\nSummary:\nA brief summary of the publication goes here. Describe the main findings, significance, and any other relevant information.\n\n\n\nDescription of the image\n\n\n\n\n\n\nTitle: Your Paper Title Here\nJournal: Journal Name Here\nAuthors: Author 1, Author 2, Author 3\nSummary:\nA brief summary of the publication goes here. Describe the main findings, significance, and any other relevant information.\n\n\n\nDescription of the image"
   },
   {
     "objectID": "otherbits.html",
