@@ -94,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.qmd"> 
+    <a class="nav-link" href="./publications.qmd"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -102,8 +102,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./other.qmd"> 
-<span class="menu-text">Other Bits</span></a>
+    <a class="nav-link" href="./otherbits.qmd"> 
+<span class="menu-text">otherbits Bits</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -281,7 +281,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.publications-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -536,7 +536,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if(!throttle) { // first call gets through
             fn.apply(this, args);
             throttle = true;
-        } else { // all the others get throttled
+        } else { // all the otherbitss get throttled
             if(timer) clearTimeout(timer); // cancel #2
             timer = setTimeout(() => {
               fn.apply(this, args);

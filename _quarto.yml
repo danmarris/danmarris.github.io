@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: publications.qmd
         text: Publications
       - href: contact.qmd
         text: Contact
-      - href: other.qmd
+      - href: otherbits.qmd
         text: Other Bits
   favicon: images\\fav.png
   
