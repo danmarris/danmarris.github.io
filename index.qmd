@@ -18,6 +18,6 @@ For a glimpse into my research, check out the poster below:
 
 ```{=html}
 <div style="text-align: center;">
-<img src="images/hex.png" style="width: 100%;" />
+<img src="images/hex.png" style="width: 80%;" />
 </div>
 ```
