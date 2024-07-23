@@ -13,7 +13,11 @@ simulations, with my programming language of choice being Julia.
 
 For a glimpse into my research, check out the poster below:
 
-<iframe src="images//main_poster.pdf" width="80%" height="1000px">
+<iframe src="images//main_poster.pdf" width="100%" height="1000px">
 </iframe>
 
-![](images\hex.png)
+```{=html}
+<div style="text-align: center;">
+<img src="images/hex.png" style="width: 100%;" />
+</div>
+```
