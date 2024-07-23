@@ -15,10 +15,13 @@ website:
       - href: otherbits.qmd
         text: Other Bits
   favicon: images\\fav.png
-  
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: cyborg
+  
     css: styles.css
     toc: true
 
