@@ -13,11 +13,7 @@ simulations, with my programming language of choice being Julia.
 
 For a glimpse into my research, check out the poster below:
 
-<iframe src="images//main_poster.pdf" width="100%" height="1180px">
+<iframe src="images//main_poster.pdf#zoom=50" width="100%" height="1180px" title="Daniel Marris Research Poster">
 </iframe>
 
-```{=html}
-<div style="text-align: center;">
-<img src="images/hex.png" style="width: 80%;" />
-</div>
-```
+![A realisation of the unbounded hexagonal random walk](images\hex.png)

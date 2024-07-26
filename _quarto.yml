@@ -25,5 +25,10 @@ format:
     css: styles.css
     toc: true
 
+html:
+  meta:
+    - name: description
+      content: "The personal website of Daniel Marris. Find information about my research on stochastic processes and random walks, see my publications, and 
+      find contact details."
 
 
