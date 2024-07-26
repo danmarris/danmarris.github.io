@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Daniel Marris"
+  description: "The personal website of Daniel Marris. Find information about my research on stochastic processes and random walks, see my publications, and find contact details."
   navbar:
     left:
       - href: index.qmd
