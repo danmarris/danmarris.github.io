@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.\nIn general, I am interested in non-equilibrium statistical physics, with a key interest in developing new theory for discrete search processes. My research output is generally mathematical, however to supplement this I write many stochastic simulations. With this, I am interested in the fast implementation of stochastic simulations, with my programming language of choice being Julia.\nFor a glimpse into my research, check out the poster below:\n\n\n\n\n\nA realisation of the unbounded hexagonal random walk"
+    "text": "I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.\nIn general, I am interested in non-equilibrium statistical physics, with a key interest in developing new theory for discrete search processes. My research output is generally mathematical, however to supplement this I write many stochastic simulations. With this, I am interested in the fast implementation of stochastic simulations, with my programming language of choice being Julia.\nFor a glimpse into my research, check out the poster below:\n\n\n\nA research poster presented at ICTP School in Nis (Serbia)\n\n\n\n\n\nA realisation of the unbounded hexagonal random walk"
   },
   {
     "objectID": "contact.html",
