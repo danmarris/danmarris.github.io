@@ -10,7 +10,7 @@ format: html
 
 **LinkedIn:** <a href = "https://www.linkedin.com/in/daniel-marris-7a1133194/">Homepage </a>
 
-See below for a recent CV:
+See below for a recent CV (updated Sept. 2024):
 
 <iframe src="images//Marris_CV.pdf" width="80%" height="1000px">
 </iframe>
