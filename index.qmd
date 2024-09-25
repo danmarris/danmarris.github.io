@@ -11,7 +11,10 @@ is generally mathematical, however to supplement this I write many stochastic
 simulations. With this, I am interested in the fast implementation of stochastic 
 simulations, with my programming language of choice being Julia.
 
-For a glimpse into my research, check out the poster below:
+Recently, I have used the theoretical tools I have developed to build a model capable of
+replicating the movement of ants in a Y-maze experimental arena. Results to be published soon!
+
+For a glimpse into some of my research, check out the poster below:
 
 ![A research poster presented at ICTP School in Nis (Serbia)](images\main_poster.png)
 
