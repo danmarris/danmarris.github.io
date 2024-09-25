@@ -9,7 +9,7 @@ format: html
 
 
 **Summary:**  
-Here we present an exact analytic framework to quantify search processes with for the one-step memory perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.
+Here we present an exact analytic framework to quantify search processes for the one-step memory extension of the random walk - the non-Markovian perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.
 
 ![Here we uncovered the existence of bi-modal first-passage probality mass functions in bounded (reflecting and periodic) persistent random walks.](images\1D_FP_full.png)
 
