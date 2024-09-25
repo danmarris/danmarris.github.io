@@ -35,8 +35,8 @@ Here we present a review of the latest advances in the field of search in hetero
 **Journal:** Physical Review E, 107, 054139, (2023)
 
 **Summary:**  
-Here we develop a general theory to exactly describe diffusive processes in hexagonal geometries. We consider two lattices, the coordination number six hexagonal lattice and the non-Bravias coordination number three honeycomb lattice. Random movement on 
-hexagonal structures is seen as a modelling tool in varying applications from exciton transport on the surface of carbon nanotubes, to animal foraging theory.
+Here we develop a general theory to describe, exactly, diffusive processes when the underlying geometry is hexagonal. We consider two lattices, the hexagonal lattice (coordination number six) and the non-Bravias honeycomb lattice (coordination number three). Modelling random movement on 
+hexagonal structures is a modelling tool used in varying applications from exciton transport on the surface of carbon nanotubes to animal foraging theory.
 
 ![The diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice.](images\honey.png)
 
