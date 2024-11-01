@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem \nAuthors: D.M., Luca Giuggioli\nJournal: New Journal of Physics, 26, (2024)\nSummary:\nHere we present an exact analytic framework to quantify search processes for the one-step memory extension of the random walk - the non-Markovian perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.\n\n\n\nHere we uncovered the existence of bi-modal first-passage probality mass functions in bounded (reflecting and periodic) persistent random walks.\n\n\n\n\n\nMulti-target search in bounded andheterogeneous environments: a lattice random walk perspective\nAuthors: Luca Giuggioli, Seeralan Sarvaharman, Debraj Das, D.M. and Toby Kay\nJournal: To Appear in The Target Problem (Eds. D. S. Grebenkov, R. Metzler, G. Oshanin), Springer Nature (2024)\nSummary:\nHere we present a review of the latest advances in the field of search in heterogeneous and bounded lattice random walks. It was an absolute pleasure to work with such a lovely team.\n\n\n\nA collection of first-passage probability mass functions for hexagonal and square lattices with and without bias.\n\n\n\n\n\nExact spatiotemporal dynamics of lattice random walks in hexagonal and honeycomb domains\nAuthors: D.M., Seeralan Sarvaharman and Luca Giuggioli\nJournal: Physical Review E, 107, 054139, (2023)\nSummary:\nHere we develop a general theory to describe, exactly, diffusive processes when the underlying geometry is hexagonal. We consider two lattices, the hexagonal lattice (coordination number six) and the non-Bravias honeycomb lattice (coordination number three). Modelling random movement on hexagonal structures is a modelling tool used in varying applications from exciton transport on the surface of carbon nanotubes to animal foraging theory.\n\n\n\nThe diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a statistical physicist in the final year of my PhD in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.\nIn general, I am interested in non-equilibrium statistical physics, with a key interest in developing new theory for discrete search processes. My research output is generally mathematical, however to supplement this I write many stochastic simulations. With this, I am interested in the fast implementation of stochastic simulations, with my programming language of choice being Julia.\nRecently, I have used the theoretical tools I have developed to build a model capable of replicating the movement of ants in a Y-maze experimental arena. Results to be published soon!\nFor a glimpse into some of my research, check out the poster below:\n\n\n\nA research poster presented at ICTP School in Nis (Serbia)\n\n\n\n\n\nA realisation of the unbounded hexagonal random walk"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Office: 0.15 Queens Building, University Walk, Bristol, BS8 1TR\nEmail: daniel.marris@bristol.ac.uk\nLinkedIn: Homepage \nSee below for a recent CV (updated Nov. 2024):"
+  },
+  {
+    "objectID": "otherbits.html",
+    "href": "otherbits.html",
+    "title": "Other Bits",
+    "section": "",
+    "text": "I maintain a repository of useful papers and textbooks for those looking to work with lattice random walks. If you have any suggestions of works to add please email me and I will gladly add them!\nIn my spare time I enjoy travelling the country watching football. So far I have watched games at over 50 different grounds, mainly following Sheffield Wednesday and Lewes FC.\nI’m also into music and in the evenings you can often find me at gigs. Here is some of what I’m listening to at the moment:\n\n\n\n(Made using spotlistr.com)"
+  }
+]
