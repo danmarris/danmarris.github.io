@@ -2,6 +2,22 @@
 title: "Publications"
 format: html
 ---
+### <a href = "https://arxiv.org/abs/2411.03290"> Collective Foraging and Behavioural Heterogeneity in Ants: First-Passage Statistics with Heterogeneous Walkers in a Honeycomb Lattice </a>
+**Authors:** ***D.M.***, Pol Fernández-López, Frederic Bartumeus, Luca Giuggioli 
+
+**Journal:** In Review (arXiv pre-print)
+
+
+**Summary:**  
+We have present a theoretical model to quantify the foraging behaviour of the ant species Aphaenogaster senilis in laboratory experiments. The
+model extends known theory on correlated random walks to account for the underlying Y-maze (honeycomb) lattice and on the fFPT of N independent random
+walkers, allowing the population to be heterogeneous in behaviour. We show that scouts outperform recruits in both search and exploration, give indication of a central placed foraging behaviour and highlight that the characteristic fFPT time of the foraging ants corresponds to the timescale related to the mode of the fFPT distribution rather than its mean.
+
+![Here we show that the nearby food source will most likely be found first and that scouts are more efficient searchers than recruits.](images\hetero_honey.png)
+
+---
+
+
 ### <a href = "https://iopscience.iop.org/article/10.1088/1367-2630/ad5d85/meta"> Persistent and anti-Persistent Motion in Bounded and Unbounded Space: Resolution of the First-Passage Problem </a>
 **Authors:** ***D.M.***, Luca Giuggioli 
 

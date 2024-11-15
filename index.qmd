@@ -12,7 +12,8 @@ simulations. With this, I am interested in the fast implementation of stochastic
 simulations, with my programming language of choice being Julia.
 
 Recently, I have used the theoretical tools I have developed to build a model capable of
-replicating the movement of ants in a Y-maze experimental arena. Results to be published soon!
+replicating the movement of ants in a Y-maze experimental arena in an interdiscipinary study 
+with movement ecologists. 
 
 For a glimpse into some of my research, check out the poster below:
 
