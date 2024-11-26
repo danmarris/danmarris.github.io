@@ -7,3 +7,8 @@ format: html
 [![15 minutes on the first-passage probability in the correlated random walk](https://img.youtube.com/vi/ly_3qJjZcxs/0.jpg)](https://www.youtube.com/watch?v=ly_3qJjZcxs)
 
 ---
+
+### Video Abstract for <a href = "https://iopscience.iop.org/article/10.1088/1367-2630/ad5d85/meta"> New Journal of Physics Paper </a>
+![General overview of the paper](videos/vid_abstract.mp4)
+
+---
