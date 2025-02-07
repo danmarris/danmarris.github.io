@@ -13,5 +13,5 @@ format: html
 
 See below for a recent CV (updated Nov. 2024):
 
-<iframe src="images\\Marris_CV.pdf" width="80%" height="1000px">
+<iframe src="images\\Marris_CV.pdf" width="80%" height="900px">
 </iframe>
