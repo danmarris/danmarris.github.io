@@ -17,6 +17,6 @@ with movement ecologists.
 
 For a glimpse into some of my research, check out the poster below:
 
-![A research poster presented at ICTP School in Nis (Serbia)](images\main_poster.png)
+![A research poster presented at ICTP School in Nis (Serbia)](images\main_poster.png){fig-alt="Research poster presented at ICTP School in Nis, Serbia."}
 
-![A realisation of the unbounded hexagonal random walk](images\hex.png)
+![A realisation of the unbounded hexagonal random walk](images\hex.png){fig-alt="Realisation of the unbounded hexagonal random walk."}

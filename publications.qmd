@@ -13,7 +13,7 @@ We have present a theoretical model to quantify the foraging behaviour of the an
 model extends known theory on correlated random walks to account for the underlying Y-maze (honeycomb) lattice and on the fFPT of N independent random
 walkers, allowing the population to be heterogeneous in behaviour. We show that scouts outperform recruits in both search and exploration, give indication of a central placed foraging behaviour and highlight that the characteristic fFPT time of the foraging ants corresponds to the timescale related to the mode of the fFPT distribution rather than its mean.
 
-![Here we show that the nearby food source will most likely be found first and that scouts are more efficient searchers than recruits.](images\hetero_honey.png)
+![Here we show that the nearby food source will most likely be found first and that scouts are more efficient searchers than recruits.](images\hetero_honey.png){fig-alt="Nearby food source found first and scouts are more efficient searchers than recruits."}
 
 ---
 
@@ -27,7 +27,7 @@ walkers, allowing the population to be heterogeneous in behaviour. We show that 
 **Summary:**  
 Here we present an exact analytic framework to quantify search processes for the one-step memory extension of the random walk - the non-Markovian perisistent random walk. The theory is general and applicable in arbitrary dimension, with any boundary condition. This may find application in active matter, mathematical biology and movement ecology.
 
-![Here we uncovered the existence of bi-modal first-passage probality mass functions in bounded (reflecting and periodic) persistent random walks.](images\1D_FP_full.png)
+![Here we uncovered the existence of bi-modal first-passage probality mass functions in bounded (reflecting and periodic) persistent random walks.](images\1D_FP_full.png){fig-alt="Bi-modal first-passage probability mass functions in bounded persistent random walks."}
 
 ---
 
@@ -41,7 +41,7 @@ Here we present an exact analytic framework to quantify search processes for the
 **Summary:**  
 Here we present a review of the latest advances in the field of search in heterogeneous and bounded lattice random walks. It was an absolute pleasure to work with such a lovely team.
 
-![A collection of first-passage probability mass functions for hexagonal and square lattices with and without bias.](images\composite_fpp.png)
+![A collection of first-passage probability mass functions for hexagonal and square lattices with and without bias.](images\composite_fpp.png){fig-alt="First-passage probability mass functions for hexagonal and square lattices with and without bias."}
 
 ---
 
@@ -54,7 +54,7 @@ Here we present a review of the latest advances in the field of search in hetero
 Here we develop a general theory to describe, exactly, diffusive processes when the underlying geometry is hexagonal. We consider two lattices, the hexagonal lattice (coordination number six) and the non-Bravias honeycomb lattice (coordination number three). Modelling random movement on 
 hexagonal structures is a modelling tool used in varying applications from exciton transport on the surface of carbon nanotubes to animal foraging theory.
 
-![The diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice.](images\honey.png)
+![The diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice.](images\honey.png){fig-alt="Diffusive propagation over a six-sided hexagon with zig-zag periodic boundary condition for the honeycomb lattice."}
 
 ---
 

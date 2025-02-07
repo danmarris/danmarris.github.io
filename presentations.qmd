@@ -9,6 +9,6 @@ format: html
 ---
 
 ### Video Abstract for <a href = "https://iopscience.iop.org/article/10.1088/1367-2630/ad5d85/meta"> New Journal of Physics Paper </a>
-![General overview of the paper](videos/vid_abstract.mp4)
+![General overview of the paper](videos/vid_abstract.mp4){fig-alt="Video abstract providing a general overview of the paper."}
 
 ---
