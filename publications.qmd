@@ -2,10 +2,23 @@
 title: "Publications"
 format: html
 ---
+### <a href = "https://arxiv.org/pdf/2508.10140"> Predicting First-Passage Dynamics in Disordered Systems Exactly: Application to Sparse Networks </a>
+**Authors:** ***D.M.***, Chittaranjan Hens, Subrata Ghosh, Luca Giuggioli 
+
+**Journal:** In review 
+
+
+**Summary:**  
+We view lattice random walks on Watts-Strogatz type small world networks through the lens of stochastic transport in heterogeneous space. In doing so we uncover some previously unseen features of the first-passage distribution. 
+
+![Certain network structures lead to bi-modal first passage distributions.](images\fullFP-1.png){fig-alt="Certain network structures lead to bi-modal first passage distributions."}
+
+---
+
 ### <a href = "https://arxiv.org/abs/2411.03290"> Collective Foraging and Behavioural Heterogeneity in Ants: First-Passage Statistics with Heterogeneous Walkers in a Honeycomb Lattice </a>
 **Authors:** ***D.M.***, Pol Fernández-López, Frederic Bartumeus, Luca Giuggioli 
 
-**Journal:** In Review (arXiv pre-print)
+**Journal:** The Mathematics of Movement (Springer Cham)
 
 
 **Summary:**  
