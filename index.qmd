@@ -4,7 +4,7 @@ format: html
 ---
 I am a Guidance, Control and Navigation engineer interested in uncertainty modelling. 
 
-I have a PhD in theoretical statistical physics undertaken in the lab of Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.
+I have a PhD in statistical physics supervised by Prof. Luca Giuggioli at the University of Bristol. Before that I completed an MEng in Engineering Mathematics at the University of Bristol.
 
 For a glimpse into some of my research, check out the poster below:
 
